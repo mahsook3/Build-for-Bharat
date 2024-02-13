@@ -53,7 +53,21 @@ NearTreat addresses the identified gaps by providing a platform where street foo
 Contributions are welcome for our Build for Bharat Project! Please fork the repository and create a pull request for any enhancements or bug fixes.
 
 ## Acknowledgements
+
 NearTreat would like to thank Cloud Analogy, LearnowX, and other organizations for their support and recognition in various competitions and events.
+
+1. **1st Runner-Up at Ideathon with a ₹50,000 Cash Prize**
+   - Secured the 1st Runner-Up position and received a ₹50,000 cash prize at Ideathon, hosted by Cloud Analogy in Haryana. Demonstrated exceptional problem-solving and innovative thinking.
+
+2. **First Runner-Up and Grand Prize Winner ₹15,000 at Pitch Fest 2023**
+   - Achieved the 1st Runner-Up position and was awarded a cash prize of ₹15,000 at Pitch Fest 2023 held at Sri Eshwar College of Engineering. Presented a compelling business idea and demonstrated effective communication and pitching skills, earning top honors.
+
+3. **Agent of Change in Tech - Tech for Good Hackathon**
+   - Awarded with the title of "Agent of Change in Tech" for outstanding contributions at the Tech for Good Hackathon organized by Google Developers Group Coimbatore. Recognized for innovative ideas and impactful initiatives in the tech industry.
+
+4. **Mini Project Expo 2023**
+   - Secured the second prize in the Mini Project Expo held at Sri Eshwar College of Engineering. Demonstrated outstanding project implementation, technical proficiency, and effective presentation abilities, showcasing the ability to develop and present innovative ideas in a competitive environment.
+
 
 ## Contact
 For inquiries or feedback, please contact the NearTreat team at [mahsook.m.a@gmail.com](mailto:mahsook.m.a@gmail.com).
