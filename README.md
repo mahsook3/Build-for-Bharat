@@ -31,15 +31,17 @@ NearTreat addresses the identified gaps by providing a platform where street foo
    ```bash
    git clone https://github.com/mahsook3/Build-for-Bharat.git
 
-## Install dependencies
-### run server
-cd server
-npm install
-npm start
+2. Install dependencies
+   ### run server
+   ```bash
+   cd server
+   npm install
+   npm start
 
-### run client
-cd client
-npm start
+   ### run client
+   ```bash
+   cd client
+   npm start
 
 ## Contributing
 Contributions are welcome for our Build for Bharat Project! Please fork the repository and create a pull request for any enhancements or bug fixes.
