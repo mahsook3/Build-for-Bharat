@@ -1,6 +1,5 @@
 # NearTreat - Retail Commerce Platform with Indic Language Support
-[![Alt text](https://img.youtube.com/vi/uS9llmDY2UA/maxresdefault.jpg)](https://www.youtube.com/watch?v=uS9llmDY2UA)
-
+[![NearTreat Demo](https://img.youtube.com/vi/uS9llmDY2UA/mqdefault.jpg)](https://www.youtube.com/watch?v=uS9llmDY2UA)
 
 [![Quality Gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mahsook3_Build-for-Bharat)](https://sonarcloud.io/summary/new_code?id=mahsook3_Build-for-Bharat)
 
