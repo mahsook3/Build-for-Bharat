@@ -1,5 +1,4 @@
 # NearTreat - Retail Commerce Platform with Indic Language Support
-[![NearTreat Demo](https://img.youtube.com/vi/uS9llmDY2UA/mqdefault.jpg)](https://www.youtube.com/watch?v=uS9llmDY2UA)
 
 [![Quality Gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mahsook3_Build-for-Bharat)](https://sonarcloud.io/summary/new_code?id=mahsook3_Build-for-Bharat)
 
@@ -24,6 +23,10 @@ NearTreat addresses the identified gaps by providing a platform where street foo
 - **Backend:** Utilizes MERN stack (MongoDB, Express.js, React.js, Node.js) for development.
 - **AI Capabilities:** Leverages Google Cloud Platform (GCP) for language processing and scalability.
 - **Security:** Implements robust protocols for secure communication and transactional guarantees.
+
+[![NearTreat Demo](https://img.youtube.com/vi/uS9llmDY2UA/mqdefault.jpg)](https://www.youtube.com/watch?v=uS9llmDY2UA)
+*Click to watch our platform prototype demo*
+
 
 ## Getting Started
 
