@@ -143,7 +143,7 @@ const Home = () => {
                 </svg>
               </a>
               <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
-                <span className="text-[#D2042D]">NearTreat </span>The Ultimate
+                <span className="text-[#D2042D] notranslate">NearTreat </span>The Ultimate
                 Solution for{" "}
                 <span className="text-[#edbb3e]">Street Food Lovers</span>
               </h1>
@@ -200,7 +200,7 @@ const Home = () => {
         <section className="py-14">
           <div className="max-w-screen-xl mx-auto px-4 text-gray-600 md:px-8">
             <div className="max-w-xl space-y-3">
-              <h3 className="text-customRed font-semibold">Why NearTreat?</h3>
+              <h3 className="text-customRed font-semibold">Why <span notranslate>NearTreat?</span> </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
                 To experience the best recipes near your location from street
                 food vendors

@@ -117,7 +117,7 @@ const Profile = () => {
       setDetails(JSON.parse(localStorage.getItem("user")));
       // setRecipe(details.recipes);
       if (details) {
-        fetch("https://sample-aykgdz2o4q-uc.a.run.app/seller")
+        fetch("https://neartreat-p34i.onrender.com/seller")
           .then((response) => response.json())
           .then((data) => {
             const user = data.find(
@@ -153,7 +153,7 @@ const Profile = () => {
   }, [recipe]);
 
   async function handleRecipe(e) {
-    await fetch(`https://sample-aykgdz2o4q-uc.a.run.app/seller/${details._id}`, {
+    await fetch(`https://neartreat-p34i.onrender.com/seller/${details._id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
@@ -191,7 +191,7 @@ const Profile = () => {
   async function handlePassword(e) {
     e.preventDefault();
     setIsForget(false);
-    await fetch(`https://sample-aykgdz2o4q-uc.a.run.app/seller/${details._id}`, {
+    await fetch(`https://neartreat-p34i.onrender.com/seller/${details._id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
@@ -290,7 +290,7 @@ const Profile = () => {
 
         // Update location in the backend and also in the state
         await fetch(
-          `https://sample-aykgdz2o4q-uc.a.run.app/seller/${details._id}`,
+          `https://neartreat-p34i.onrender.com/seller/${details._id}`,
           {
             method: "PATCH",
             headers: {
@@ -405,7 +405,7 @@ const Profile = () => {
       });
 
       const response = await fetch(
-        `https://sample-aykgdz2o4q-uc.a.run.app/seller/${sellerId}`,
+        `https://neartreat-p34i.onrender.com/seller/${sellerId}`,
         {
           method: "PATCH", // Use PATCH or POST depending on your API
           headers: {

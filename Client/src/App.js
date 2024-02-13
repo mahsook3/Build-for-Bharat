@@ -17,9 +17,11 @@ import CTest from './components/CTest';
 import RecipeScanner from './components/recipescanner/RecipeScanner';
 import Signup from './components/Signup';
 import Login from './components/Login';
+import Translator from './components/Translator';
 function App() {
   return (
     <div className='font-[Poppins] '>
+    <Translator/>
       <BrowserRouter>
       <Routes>
         <Route exact path='/' element={<Home />} />
@@ -38,8 +40,6 @@ function App() {
         <Route exact path='/recipescanner' element={<RecipeScanner />} />
         <Route exact path='/test' element={<CTest />} />
         <Route exact path='/testing' element={<Testing />} />
-
-
       </Routes>
       </BrowserRouter>
     </div>

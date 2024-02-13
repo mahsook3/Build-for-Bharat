@@ -66,7 +66,7 @@ const Signup = () => {
       if (oneClick) {
         setOneClick(false);
         const newObj = { name, email, mobile_number: ph, password };
-        await fetch("https://sample-aykgdz2o4q-uc.a.run.app/buyer", {
+        await fetch("https://neartreat-p34i.onrender.com/buyer", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -147,7 +147,7 @@ const Signup = () => {
           upi_id: upiId,
         };
 
-        await fetch("https://sample-aykgdz2o4q-uc.a.run.app/seller", {
+        await fetch("https://neartreat-p34i.onrender.com/seller", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

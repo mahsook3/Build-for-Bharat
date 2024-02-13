@@ -29,8 +29,8 @@ const Login = () => {
 
     const url =
       option === "Buyer"
-        ? "https://sample-aykgdz2o4q-uc.a.run.app/buyer"
-        : "https://sample-aykgdz2o4q-uc.a.run.app/seller";
+        ? "https://neartreat-p34i.onrender.com/buyer"
+        : "https://neartreat-p34i.onrender.com/seller";
 
     if (!isLoading) {
       setIsLoading(true);

@@ -16,6 +16,10 @@ body{
   /* display: flex;
   align-items: center; */
 }
+.app-container {
+  padding: 20px;
+}
+
 
 .form_input {
     width: 350px;
