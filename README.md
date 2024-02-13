@@ -37,11 +37,13 @@ NearTreat addresses the identified gaps by providing a platform where street foo
    cd server
    npm install
    npm start
-
+   ```
    ### run client
    ```bash
    cd client
+   npm install
    npm start
+   ```
 
 ## Contributing
 Contributions are welcome for our Build for Bharat Project! Please fork the repository and create a pull request for any enhancements or bug fixes.
